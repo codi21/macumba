@@ -13,7 +13,7 @@ class ListCard extends React.Component{
         }
     }
     componentDidMount(){
-        Axios.get('http://localhost:8080/product')
+        Axios.get(process.env.react_app_api+'product')
 
         .then((data)=>{
             this.setState({
