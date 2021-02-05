@@ -1,0 +1,37 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+.head{
+    color :white;
+    height : 35vh;
+}
+.logo>div>img{
+   cursor :pointer;
+}
+
+.titulo{
+    font-family: 'Hanalei', cursive;
+    font-size : 4em; 
+}
+.logo>div>img{
+    width: 150px;
+    height: 150px;
+    object-fit:cover;
+
+}
+.logo>div>p{
+    padding-left:15px;
+}
+.logo>p{
+    text-size : 1px;
+}
+.parrafo {
+    font-family: 'Architects Daughter', cursive;
+}
+.bi-person-circle, .bi-basket3{
+    color : white;
+}
+.bi:hover{
+    cursor:pointer;
+    color :grey;
+}

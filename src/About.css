@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+*{
+    font-family: 'Architects Daughter', cursive;
+}
+.parra1>p>b{
+    text-decoration : underline;
+}
+.parra2>p>b{
+    text-decoration : underline;
+}
+.parra3>p>b{
+    text-decoration : underline;
+}

@@ -1,0 +1,14 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.card{
+}
+.card-img-top{
+}
+.btn{
+    width : 140px !important;
+}
+.bi{
+    color:blue;
+    font-size:2rem;
+    width: 32px;
+    height: 32px;
+}
