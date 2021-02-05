@@ -13,7 +13,7 @@ class ListCard extends React.Component{
         }
     }
     componentDidMount(){
-        Axios.get(process.env.react_app_api+'product')
+        Axios.get(`${process.env.REACT_APP_API}product`)
 
         .then((data)=>{
             this.setState({
